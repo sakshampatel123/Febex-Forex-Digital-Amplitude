@@ -52,4 +52,4 @@ Feel free to fork the repository and build upon this research.
 
 ## License
 
-[Choose and add a license, e.g., MIT License]
+[MIT License]
