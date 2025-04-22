@@ -36,12 +36,12 @@ This research is based on historical data collected by the Emmanuelkhisa and is 
 5.  **View Chart:** Use option `2` to select a set of sessions and visualize the Febex Digital Amplitude chart.
 
 ## A TIP FOR YOU
--This Project uses Forex data with a binary number data sets.
--Switch your Chart to a higher time frame . 4H to be specific.
--Record each Candle stick; "'1' for Buy/Long bias, & '0' for Sell/Short bias (or a Doji)."
--In a day, you will end up with sets of Data e.g (101) Representing Long, Short, Long runs for E.g London, Lond-Newy overlap, NewYork sessions respectively.
--A csv file is generated automatically using the python file, which will hold your Datasets for graph creation.
--For accuracy, Update the csv file with more forex session data sets as guided when you run the Python file.
+->This Project uses Forex data with a binary number data sets.
+->Switch your Chart to a higher time frame . 4H to be specific.
+->Record each Candle stick; "'1' for Buy/Long bias, & '0' for Sell/Short bias (or a Doji)."
+->In a day, you will end up with sets of Data e.g (101) Representing Long, Short, Long runs for E.g London, Lond-Newy overlap, NewYork sessions respectively.
+->A csv file is generated automatically using the python file, which will hold your Datasets for graph creation.
+->For accuracy, Update the csv file with more forex session data sets as guided when you run the Python file.
 
 ## Research Work
 
