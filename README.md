@@ -1,5 +1,7 @@
 # Project Febex Forex Digital Amplitude Chart Indicator
 
+
+![Febex Digital Amplitude Chart](Content/sample.jpg)
 ## Overview
 
 This project explores the dynamics of the XAUUSD Forex pair during specific trading sessions by analyzing binary representations of daily session outcomes (Buy/Sell). It applies various computational and mathematical concepts to uncover patterns, relationships, and temporal dynamics. A key component is a Python tool that calculates and visualizes a "Digital Amplitude" based on these binary patterns, offering a unique perspective analogous to market phases like Accumulation, Manipulation, and Distribution (AMD).
