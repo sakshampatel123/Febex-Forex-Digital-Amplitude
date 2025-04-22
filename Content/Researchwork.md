@@ -1,4 +1,6 @@
-# Research Report: Decoding XAUUSD Asian Session Dynamics Using Binary Patterns and Computational Concepts
+![image](https://github.com/user-attachments/assets/4456676c-9e1a-4fd6-ae99-25a9460c45d8)# Research Report: Decoding XAUUSD Asian Session Dynamics Using Binary Patterns and Computational Concepts
+
+![Febex Digital Amplitude Chart](sample.png)
 
 ## 1. Introduction
 
