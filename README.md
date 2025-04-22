@@ -4,7 +4,7 @@
 
 This project explores the dynamics of the XAUUSD Forex pair during specific trading sessions by analyzing binary representations of daily session outcomes (Buy/Sell). It applies various computational and mathematical concepts to uncover patterns, relationships, and temporal dynamics. A key component is a Python tool that calculates and visualizes a "Digital Amplitude" based on these binary patterns, offering a unique perspective analogous to market phases like Accumulation, Manipulation, and Distribution (AMD).
 
-This research is based on historical data collected by the author and is intended for study and analysis purposes. It is not financial advice, and any application of these concepts in live trading should be done with extreme caution and thorough independent validation on diverse datasets.
+This research is based on historical data collected by the Emmanuelkhisa and is intended for study and analysis purposes. It is not financial advice, and any application of these concepts in live trading should be done with extreme caution and thorough independent validation on diverse datasets.
 
 ## Repository Structure
 
@@ -14,14 +14,14 @@ This research is based on historical data collected by the author and is intende
 * `Tools/`: Contains the Python tool and dependencies.
     * `febex_analyzer.py`: The Python script to input data, calculate amplitude, and generate the chart.
     * `requirements.txt`: Lists the necessary Python libraries.
-* `Data/`: (Recommended) A directory to store your data file (`forex_session_data.csv`). You might want to create this directory and place the CSV file there, updating the `DATA_FILE` path in the Python script accordingly (e.g., `DATA_FILE = 'Data/forex_session_data.csv'`).
+
 
 ## Getting Started
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [your-repo-url]
-    cd [your-repo-name]
+    git clone https://github.com/Emmanuelkhisa/Febex-Forex-Digital-Amplitude
+    cd Febex-Forex-Digital-Amplitude
     ```
 2.  **Install Dependencies:** Ensure you have Python installed. Then, install the required libraries:
     ```bash
