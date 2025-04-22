@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 from datetime import datetime, timedelta
-import calendar # Import the calendar module
+import calendar 
 
 # Define the sets of consecutive trading sessions and their default colors
 SESSION_SETS = {
